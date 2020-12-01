@@ -1,0 +1,13 @@
+{
+    "name": "vendor/comps",
+    "description": "Gerenciado de Depend\u0000ncias",
+    "authors": [
+        {
+            "name": "Leandro Miranda",
+            "email": "lcostamiranda@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.2"
+    }
+}
